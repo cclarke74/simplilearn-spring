@@ -1,0 +1,8 @@
+
+#Tomcat Server
+server:
+  port: 8080
+  
+
+  
+ 
